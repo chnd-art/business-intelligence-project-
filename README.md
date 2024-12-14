@@ -11,13 +11,11 @@ In this scenario, you are working as a BI professional for a fictional consumer 
 
 # Activity 1 : 
 In this activity, you will complete the three key business intelligence project documents: the Stakeholder Requirements Document, the Project Requirements Document, and the Strategy Document. To fill out each section, you will use your meeting notes from your meeting with the Cyclistic stakeholders to identify key project requirements and stakeholder asks. 
-https://github.com/chnd-art/business-intelligence-project-/blob/main/ETL.txt
 [Project Planning](https://github.com/chnd-art/business-intelligence-project-/blob/main/Project%20Planning.pdf)
 
 
 # Activity 2 :
 In this activity, you created target tables to consolidate and store the data you pulled from the Cyclistic datasets. These tables will allow you to develop a dashboard using Tableau in the upcoming end-of-course project activities in the next course. As a BI professional, you will need to be able to use programs such as BigQuery and Dataflow to move and analyze data with SQL. 
-https://github.com/chnd-art/business-intelligence-project-/blob/main/Project%20Planning.pdf
 [ETL](https://github.com/chnd-art/business-intelligence-project-/blob/main/ETL.txt)
 
 
