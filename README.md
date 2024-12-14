@@ -1,6 +1,6 @@
 # business-intelligence-project-
 
-# Prepared by: Hind Cherrat
+Prepared by: Hind Cherrat
 
 # Introduction
 This project serves as the culminating assignment for my google business intelligence professional  course, focusing on utilizing SQL and Tableau. Within this case study, I
