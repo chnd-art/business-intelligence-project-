@@ -22,5 +22,5 @@ In this activity, you created target tables to consolidate and store the data yo
 
 # Activity 3 :
 In this activity, you created data visualizations, a low fidelity mockup to help you plan the components and layout of your dashboard, charts to be included in your visualization, and a dashboard for Cyclistic. You also completed an executive summary document that describes to Cyclistic stakeholders the business needs, project goals, dashboard functionality, and your BI methods. As a BI professional, you will need to be able to communicate technical information in a way that all users can understand.
-[Tableau Visualization](https://public.tableau.com/app/profile/hind.cherrat/viz/Classeur2_17342840465670/Histoire1?publish=yes)
+[Tableau Visualization](https://public.tableau.com/app/profile/hind.cherrat/viz/business-intelligence-project/Histoire?publish=yes)
 
